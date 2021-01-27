@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Alex%20KwangEun%20OH&fontSize=70&fontColor=345feb&rotate=20&animation=twinkling)
+
+Hello, welcome to the place of Alex KwangEun Oh.
+
+<p align="center">
+☄ Skill Set ☄
+</p>
+<p align="center">
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+</p>
 
 <!--
 **kko2017/kko2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
