@@ -3,6 +3,7 @@
 ### Hello, this is **`Alex KwangEun Oh`**.
 
 <p align="center" style="font-size: 20px;">
+<br/>
 ☄ <b>Skill Set</b> ☄
 </p>
 <p align="center">
@@ -25,8 +26,13 @@
     <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
+<br/>
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=kko2017&hide=contribs,stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kko2017&hide=contribs,stars&show_icons=true&theme=tokyonight"/>
+  </a>
+</p>
 
 ### Powered by new decade, `2020s`.
 
