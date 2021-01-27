@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Alex%20KwangEun%20OH&fontSize=70&fontColor=&rotate=0&animation=twinkling)
 
-#### Hello, this is **`Alex KwangEun Oh`**.
+## Hello, this is **`Alex KwangEun Oh`**.
 
-<p align="center" style="font-size: 15px;">
+<p align="center" style="font-size: 20px;">
 ☄ <b>Skill Set</b> ☄
 </p>
 <p align="center">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
-#### Powered by new decade, `2020s`.
+## Powered by new decade, `2020s`.
 
 <!--
 **kko2017/kko2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
